@@ -12,7 +12,7 @@ body {
 }
 
 header {
-  background: #4CAF50;
+  background: #007BFF;
   padding: 1rem 0;
 }
 
@@ -85,12 +85,12 @@ h1, h2 {
 }
 
 .btn.green {
-  background: #4CAF50;
+  background: #007BFF;
   color: white;
 }
 
 .btn.green:hover {
-  background: #45a049;
+  background: #0069d9;
 }
 
 .tag-list {
@@ -102,7 +102,7 @@ h1, h2 {
 }
 
 .tag-list span {
-  background: #4CAF50;
+  background: #007BFF;
   color: white;
   padding: 0.4rem 0.8rem;
   border-radius: 20px;
